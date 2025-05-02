@@ -1,0 +1,101 @@
+<speak>
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">Welcome back to <emphasis>Bear Necessities</emphasis>! I’m your host, Alice Wildman, and today, we’ve got a show that’ll <emphasis>claw its way into your heart</emphasis>. Sloth bears! They’re shaggy, a little grumpy, and honestly... I think I found my spirit animal. Here to share the scoop on these termite-sucking legends is Dr. Rachel Woods, a wildlife biologist who’s been up close and personal with these furry termite vacuums. Welcome, Rachel!</prosody>
+    </voice>
+    
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Thanks, Alice! Glad to be here.</prosody>
+        <break time="300ms"/>
+        And yeah, sloth bears might not be winning beauty contests anytime soon, but you gotta admire an animal that can chow down on termites with that much enthusiasm!
+        <break time="500ms"/>
+        <emphasis level="moderate">They’ve got style!</emphasis> (laughter)
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="fast" pitch="low">Oh man, I was just imagining a sloth bear strutting down the catwalk... Next up in our <emphasis>Forest Chic</emphasis> collection, a sloth bear in full termite-eating mode! (laughter)</prosody>
+        <break time="500ms"/>
+        But termites aside, how are these bears doing with food shortages?
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Well, food's a big deal for them. These guys are termite-eating <emphasis>machines!</emphasis> They use their long claws—yes, those things are around 8 centimeters long—to dig through termite mounds like they're opening a bag of chips.</prosody>
+        <break time="300ms"/>
+        And unlike us, they don’t stop after one handful. They keep going! (laughter)
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">That’s impressive! I’d need those claws just to get into my snacks faster. (Laughs) But I’ve read they also have this... gap in their teeth? Like, what’s the story there?</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Ah yes, the famous sloth bear tooth gap. Think of it like a biological straw. They suck termites straight out of the mound! No utensils needed. Just slurp and enjoy—nature’s version of fast food.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">(Interrupting) Wait, so you’re telling me these bears have evolved just to become more efficient at termite slurping? Now that’s dedication. Forget bears, these are gourmet termite chefs!</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">(Laughter) Exactly! And while we’re on the subject of diet, they do enjoy fruits as a nice dessert. But you know, termites first.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">Of course, gotta get those proteins in. Now, speaking of their habits—pun intended—I heard these guys don’t mess around when it comes to territory, except when it's... ahem, dating season? What's the deal there?</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Yeah, it’s a bit of a dating scene—think awkward high school dance but with more claws. Males gather around females, but there’s not much fighting. They take turns like it's an orderly queue at a coffee shop. 'Next please!' It’s less about romance and more about... well, efficiency.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">(Imitating a sloth bear male) Excuse me, ma’am, is it my turn to impress the lady yet? (Laughs) Wow, so chivalrous! But speaking of social interactions, these bears sound like they’ve got a real 'don’t bother me' vibe when it comes to other animals.</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Absolutely! They’ve been known to face off against tigers and leopards! They might look cuddly from a distance, but you don’t want to meet one in a dark forest. Those claws? They’re not just for termites.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">(Surprised) Tigers and leopards? Talk about gutsy! If I saw a tiger, I’d be halfway up a tree before you could say 'endangered species.'</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Yep! But sloth bears rarely climb trees unless there’s honey involved. It’s all about priorities.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">Ha, I feel that. Now, Rachel, tell me: what’s the weirdest thing you've come across in your work with these bears?</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Well, I once saw a mother sloth bear carrying her cubs on her back like they were piggybacking. You don’t expect to see that from a bear! It’s super cute... until you realize she’s doing it to keep them safe from other predators. It’s like Uber for cubs.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">(Laughs) Uber Bear—'Your ride is here! Please don’t feed the driver.'</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">(Laughs) Exactly! The cubs hang on for dear life, and the mother just keeps going, unbothered by anything else.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">Well, I think we could all use a bit of that 'unbothered' energy in our lives. On a more serious note, what’s the biggest takeaway for people listening today?</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Honestly, it’s that sloth bears are important indicators of forest health. Protecting them means protecting the ecosystems they rely on. So, while they might be goofy termite-sucking machines, they’re also key to maintaining biodiversity.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">Right! So, folks, if you’re ever in the wild and come across a sloth bear, just remember: respect the claws, and maybe offer them a termite or two! Thanks for joining us today, Rachel. It’s been an absolute blast!</prosody>
+    </voice>
+
+    <voice name="en-US-Wavenet-F"> <!-- American female, Rachel -->
+        <prosody rate="medium" pitch="high">Thanks for having me, Alice! Anytime you need more bear facts—or termite recipes—I’m your girl.</prosody>
+    </voice>
+
+    <voice name="en-AU-Wavenet-C"> <!-- Australian female, Alice -->
+        <prosody rate="medium" pitch="low">That’s a wrap, people! Stay wild out there, and we’ll catch you next time on <emphasis>Bear Necessities</emphasis>!</prosody>
+    </voice>
+</speak>
